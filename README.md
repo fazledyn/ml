@@ -1,2 +1,2 @@
-# learn-ml
-A repository to contain everything related to machine learning
+# Machine Learning
+This repository contains some basic machine learning related resources from Stanford University- along with some basic personal practices.
